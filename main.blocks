@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Z]+OH,-9MI$.-5@~oEu%">mySprite</variable><variable type="KIND_SpriteKind" id="ys5nOzpNX!o0!RH`e)GW">Player</variable><variable type="KIND_SpriteKind" id="x0Qv}q)s;[Eq{Yqh!;Rn">Projectile</variable><variable type="KIND_SpriteKind" id="2(;~m~wa1=Q9H84VS6{x">Food</variable><variable type="KIND_SpriteKind" id="fivc11Dj-(o7s]61Na3[">Enemy</variable></variables><block type="pxt-on-start" id="[$mn.)tNSM!#P^sHuDR6" x="0" y="0"></block><block type="variables_set" id="-e4YDrk}ot9?p8u%?P%G" disabled="true" x="870" y="550"><field name="VAR" id="Z]+OH,-9MI$.-5@~oEu%">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="P.v7_B9Q$Sq;2?0Ag6S1" disabled="true"><value name="img"><shadow type="screen_image_picker" id=")Ki5v+~B2i5Buji#[Ubq" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":")Ki5v+~B2i5Buji#[Ubq"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="6SC42PXz2Vi/,.tmK!t=" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block><block type="set_current_tilemap" id="tajNax9=Q-^vxww9tQ=]" disabled="true" x="450" y="990"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="SuoU*MO|3~8i.J=,eR|v" disabled="true"><field name="tilemap">tilemap`level2`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level2"}}</data></shadow></value></block></xml>
